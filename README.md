@@ -1,1 +1,1 @@
-Do not push yourself, push git.
+Do not push yourself, push git please.
